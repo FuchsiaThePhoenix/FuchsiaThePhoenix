@@ -2,4 +2,4 @@
 
 [![Statistics 2](https://github-readme-stats.vercel.app/api?username=FuchsiaThePhoenix&show_icons=true&theme=dark&no-frame=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Statistics 3](https://github-readme-stats.vercel.app/api/wakatime?username=FuchsiaThePhoenix&theme=dark&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistics 3](https://github-readme-stats.vercel.app/api/top-langs/?username=FuchsiaThePhoenix&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
